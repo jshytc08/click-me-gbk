@@ -18,10 +18,10 @@ body {
     flex-wrap: wrap;
 }
 
-#no-button {
+#yes-button {
     margin: 0 10px;
     color: white;
-    background-color: green;
+    background-color: red;
     height: 40px !important;
     width: auto;
     border: none;
@@ -34,11 +34,11 @@ body {
     }
 }
 
-#yes-button {
+#no-button {
     margin: 0 10px;
     color: white;
     border: none;
-    background-color: red;
+    background-color: green;
     cursor: pointer;
     height: 40px;
 
